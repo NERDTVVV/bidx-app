@@ -1,0 +1,10 @@
+<resources>
+<style name="Theme.BidX" parent="Theme.AppCompat.NoActionBar">
+<item name="colorPrimary">#3665f3</item>
+<item name="colorPrimaryDark">#0d0d0d</item>
+<item name="colorAccent">#3665f3</item>
+<item name="android:windowBackground">#0d0d0d</item>
+<item name="android:statusBarColor">#0d0d0d</item>
+<item name="android:navigationBarColor">#0d0d0d</item>
+</style>
+</resources>
